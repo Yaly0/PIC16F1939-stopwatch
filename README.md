@@ -19,7 +19,7 @@ the three buttons are for starting time, pausing/stoping time, and showing time 
 ## Software
 
 The program was coded in MPLAB X IDE, an IDE for the development of embedded applications on PIC microcontrollers, it uses the languages C and assembler, 
-this project was coded in C.
+this project was coded in low-level C.
 
 The MPLAB X IDE has a simulator where all output pins' states can be seen, and all input pins can be manually changed, 
 the simulation was used for all program functionalities, and because of it, no modifications were needed after connecting the scheme for the first time.
